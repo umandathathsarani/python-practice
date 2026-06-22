@@ -11,6 +11,8 @@ print(course.upper())
 
 print(course.lower())
 
+print(course.title())
+
 print(course.find('P') ) # 0 
 
 print(course.find('o') ) # 4 -- find method is case sensitive
